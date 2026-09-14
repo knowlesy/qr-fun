@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 Run `x.py` with `python3` by providing the path to your source image:
 
 ```bash
-python3 x.py pikachu.png
+python3 x.py ghost.png
 ```
 
 **Optional Arguments**
@@ -38,7 +38,7 @@ python3 x.py pikachu.png
 * `--width`: Logical module width for resolution adjustment (default: `150`).
 
 ```bash
-python3 x.py pikachu.png --width 180
+python3 x.py ghost.png --width 180
 ```
 
 **Generated Outputs**

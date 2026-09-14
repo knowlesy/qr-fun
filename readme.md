@@ -15,6 +15,7 @@ Individually, each sheet looks like random modular noise or a dense QR-style dot
 
 ---
 
+
 ## Installation
 
 Ensure you have Python 3.8+ installed. Install the dependencies using `pip3`:
